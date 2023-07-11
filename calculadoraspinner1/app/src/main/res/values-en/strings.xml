@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apli01</string>
+    <string name="dato_a">Data a</string>
+    <string name="dato_b">Data b</string>
+    <string name="pulsar">Push</string>
+
+    <string-array name="operacion">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    <string name="division">Division by 0</string>
+</resources>

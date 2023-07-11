@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Apli01</string>
+    <string name= "dato_a">Dato a</string>
+    <string name= "dato_b">Dato b</string>
+    <string name="pulsar">pulsar</string>
+    <string-array name="operacion">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplica</item>
+        <item>Divide</item>
+    </string-array>
+    <string name="division">Division por  0</string>
+</resources>
